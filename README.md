@@ -106,10 +106,6 @@ The CNN model includes:
 └── turkish_lira_classifier_pytorch.pt  # Trained model
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 # Türk Lirası Sınıflandırıcı
@@ -217,7 +213,3 @@ CNN modeli şunları içerir:
 ├── train.py           # Model eğitim betiği
 └── turkish_lira_classifier_pytorch.pt  # Eğitilmiş model
 ```
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için LICENSE dosyasına bakın.
