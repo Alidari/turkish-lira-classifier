@@ -120,6 +120,8 @@ PyTorch kullanarak Türk Lirası banknotları ve kredi kartlarını sınıfland�
 
 Bu proje, Türk Lirası banknotlarını (1, 5, 10, 20, 50, 100, 200 TL) ve kredi kartlarını sınıflandırmak için Evrişimli Sinir Ağı (CNN) kullanır. Eğitim modülü, tahmin betiği ve web kamerası veya yüklenen görüntülerle gerçek zamanlı sınıflandırma için bir GUI uygulaması içerir.
 
+[Proje Açıklama Videosu](https://youtu.be/MPXDiy37R2U)
+
 ## Özellikler
 
 - 7 farklı Türk Lirası banknotu ve kredi kartı sınıflandırması
