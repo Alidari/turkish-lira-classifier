@@ -8,6 +8,10 @@ A deep learning project that classifies Turkish Lira banknotes and credit cards 
 
 This project uses a Convolutional Neural Network (CNN) to classify images of Turkish Lira banknotes (1, 5, 10, 20, 50, 100, 200 TL) and credit cards. It includes a training module, a prediction script, and a GUI application for real-time classification using a webcam or uploaded images.
 
+##
+[Project Explanation Video](https://youtu.be/MPXDiy37R2U)
+
+
 ## Features
 
 - Classification of 7 different Turkish Lira denominations and credit cards
